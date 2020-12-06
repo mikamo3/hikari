@@ -1,0 +1,6 @@
+[submodule "lib/keyboard.pretty"]
+	path = lib/keyboard.pretty
+	url = https://github.com/swanmatch/keyboard.pretty.git
+[submodule "lib/kicad_lib"]
+	path = lib/kicad_lib
+	url = https://github.com/mikamo3/kicad_lib.git

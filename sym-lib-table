@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name swanmatch)(type Legacy)(uri ${KIPRJMOD}/lib/keyboard.pretty/kbd.lib)(options "")(descr ""))
+  (lib (name mikamo3)(type Legacy)(uri ${KIPRJMOD}/lib/kicad_lib/mikamo3.lib)(options "")(descr ""))
+)
