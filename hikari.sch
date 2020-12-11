@@ -729,10 +729,10 @@ $EndComp
 Wire Wire Line
 	3400 2600 8850 2600
 $Comp
-L Jumper:Jumper_2_Open JP?
+L Jumper:Jumper_2_Open JP2
 U 1 1 5FD37633
 P 2900 3550
-F 0 "JP?" H 2900 3785 50  0000 C CNN
+F 0 "JP2" H 2900 3785 50  0000 C CNN
 F 1 "Jumper_2_Open" H 2900 3694 50  0000 C CNN
 F 2 "swanmatch:Jumper" H 2900 3550 50  0001 C CNN
 F 3 "~" H 2900 3550 50  0001 C CNN

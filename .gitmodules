@@ -4,3 +4,6 @@
 [submodule "lib/kicad_lib"]
 	path = lib/kicad_lib
 	url = https://github.com/mikamo3/kicad_lib.git
+[submodule "gerber_rename"]
+	path = gerber_rename
+	url = http://github.com/mikamo3/gerber_rename.git
