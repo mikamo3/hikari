@@ -7,3 +7,6 @@
 [submodule "gerber_rename"]
 	path = gerber_rename
 	url = http://github.com/mikamo3/gerber_rename.git
+[submodule "lib/kagizaraya-parts.pretty"]
+	path = lib/kagizaraya-parts.pretty
+	url = https://github.com/ka2hiro/kagizaraya-parts.pretty.git

@@ -1,8 +1,8 @@
 (export (version D)
   (design
     (source /home/mikamo/src/github.com/mikamo3/hikari/hikari.sch)
-    (date "2020年12月07日 00時30分15秒")
-    (tool "Eeschema 5.1.8")
+    (date "2021年03月28日 23時42分17秒")
+    (tool "Eeschema 5.1.9")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
