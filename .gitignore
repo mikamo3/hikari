@@ -2,3 +2,4 @@
 fp-info-cache
 *.sch-bak
 gerber/*
+gerber_to_order/*
